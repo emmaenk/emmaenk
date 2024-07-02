@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmaenk
 - 👀 I’m interested in programming, databases, technology
-- 🌱 I’m currently learning c#, php (fw laravel), vue
+- 🌱 I’m currently learning javascript (fw nodejs), php (fw laravel), sql
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 You can to reach me on fb as @jemmaen and @emmaenk on others social pages
 
