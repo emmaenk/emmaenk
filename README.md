@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @emmaenk<br>👀 I’m interested in programming, databases, technology<br>🌱 I’m currently learning javascript (fw nodejs), php (fw laravel), sql<br>💞️ I’m looking to collaborate on programming projects<br>📫 You can to reach me on fb as @jemmaen and @emmaenk on others social pages
+👋 Hi, I’m @emmaenk<br>👀 I’m interested in programming, databases, technology<br>🌱 I’m currently learning javascript (fw nodejs), php (fw laravel), sql<br>💞️ I’m looking to collaborate on programming projects<br>📫 You can reach me on fb as @jemmaen and @emmaenk on others social pages
 
 
 ## 🌐 Socials:
